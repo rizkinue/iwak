@@ -6,6 +6,6 @@
     // Jika sudah login, masuk ke index.php
     require_once 'index.php';
 
-    
+echo "Selamat datang di halaman index.php";
 
 ?>
